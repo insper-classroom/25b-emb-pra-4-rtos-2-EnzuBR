@@ -1,14 +1,13 @@
 #ifndef PINS_H
 #define PINS_H
 
-const int BTN_PIN_R = 4;
-const int BTN_PIN_G = 5;
-const int BTN_PIN_B = 6;
-const int LED_PIN_R = 7;
-const int LED_PIN_G = 8;
-const int LED_PIN_B = 9;
-const int ECHO_PIN = 16;
-const int TRIG_PIN = 17;
-
+#define BTN_PIN_R 4
+#define BTN_PIN_G 5
+#define BTN_PIN_B 6
+#define LED_PIN_R 7
+#define LED_PIN_G 8
+#define LED_PIN_B 9
+#define ECHO_PIN 16
+#define TRIG_PIN 17
 
 #endif // PINS_H
